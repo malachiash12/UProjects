@@ -3,7 +3,7 @@ import random
 
 directions = [0, 90, 180, 270]
 
-#Creates a turtle object named 'oz' with the following attributes. 'colormode' allows rgb color values:
+#Creates a turtle object named 'spiro' with the following attributes. 'colormode' allows rgb color values:
 # setting max values in the rgb tuple to 255
 spiro = t.Turtle()
 t.colormode(255)
